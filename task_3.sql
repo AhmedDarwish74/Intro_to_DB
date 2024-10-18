@@ -1,3 +1,2 @@
--- Script to list all tables in the alx_book_store database
-
+-- Show all tables in the specified database
 SHOW TABLES;
